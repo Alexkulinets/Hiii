@@ -1,0 +1,169 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    background: #fef9f9;
+    color:rgb(101, 101, 101);
+}
+.png{
+    position: absolute;
+    width:749px;
+}
+.text{
+    margin-top: 37px;
+    margin-left: 849px;
+    color:#FF735C;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size:45px;
+    font-weight: 900;
+    position: absolute;
+}
+
+.png1{
+    margin-right:19px;
+    margin-bottom:-10px;
+    position:relative;
+    width:88px;
+    height:53.25px;
+
+}
+
+input::placeholder{
+  font-family: 'Inter', sans-serif;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu Mono', monospace;
+  font-size:20px;
+
+}
+
+.login{
+  color: #000;
+    position:absolute;
+    margin-top: 137px;
+    margin-left: 849px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight:800; 
+}
+
+
+.text1{
+  color:#000000; 
+    position:absolute;
+    margin-top: 190px;
+    margin-left: 849px;
+    font-family: 'Ubuntu Mono', monospace, sans-serif;
+    font-weight:550;
+    font-size:18px;
+  
+    max-width: 500px;
+    min-width: 300px;
+}
+
+.email{
+  position:absolute;
+  margin-top:17px;
+  font-size: larger;
+  font-weight: 600;
+  }
+  .iimg{
+    margin-bottom:-10px;
+    background: white;
+  }
+.eemail{
+  margin-bottom:70px;
+}
+
+  .new-password{
+    font-weight: 600;
+    position:absolute;
+    margin-top:-43px;
+    font-size: larger;
+  }
+    .img{
+      width:768px;
+      position:absolute;
+      height:768px;
+    }
+    form {
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      position: absolute;
+      margin-left:849px;
+      margin-top:200px;
+      width: 60vw;
+      max-width: 500px;
+      min-width: 300px;
+      border-color: #D9D9D9;
+    }
+    fieldset {  
+      border: none;
+      padding: 2rem 0;
+      border-bottom: 3px solid #3b3b4f;
+      border-color: #D9D9D9;
+    }
+    fieldset:last-of-type {
+      border-bottom: none;
+      border-color: #D9D9D9;
+    }
+    label {
+      display: block;
+      margin: 57px 0;
+      border-color: #D9D9D9;
+    }
+    input,
+    textarea,
+    select {
+      width: 100%;
+      min-height: 63px;
+      border-color: #D9D9D9;
+      font-family: 'Inter', sans-serif;
+      font-family: 'Playfair Display', serif;
+      font-family: 'Ubuntu', sans-serif;
+      font-family: 'Ubuntu Mono', monospace;
+      font-size:20px;
+      font-weight: 200;  
+    }
+    .terms{
+      margin-top:-29px;
+    }
+    input, textarea {
+      background-color: #D9D9D9;
+      border: 1px solid #D9D9D9;
+      height:50px;
+      color: rgb(191, 189, 189);
+    }
+    .inline{
+      accent-color: #ff735c;
+      width: 25px;
+      margin: 0 0.5em 0 100px;
+      vertical-align:middle;;
+    }
+    input[type="submit"] {
+      display: block;
+      width: 500px;
+      margin-bottom:25px;
+      height: 63px;
+      font-size: 30px;
+      color:white;
+      background-color: #FF735C;
+      border-color: rgb(255, 255, 255);
+      border-radius: 20px; 
+      border-color: #D9D9D9;
+    }
+  i{
+      user-select: none;
+      margin-left:-40px;
+      position: absolute;
+      margin-top:20px;
+      color:#FF735C;
+      cursor:pointer;
+    }
+  
